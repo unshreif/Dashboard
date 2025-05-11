@@ -83,7 +83,7 @@ export default function Home() {
             </button>
           </div>
         </div>
-        
+
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
           {stats.map((stat) => (
             <StatCard key={stat.name} stat={stat} />

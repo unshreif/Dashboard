@@ -64,7 +64,6 @@ export const recentActivity: Activity[] = [
   { id: 1, user: 'John Doe', action: 'created a new report', time: '2 minutes ago', type: 'report' },
   { id: 2, user: 'Sarah Smith', action: 'updated user settings', time: '15 minutes ago', type: 'settings' },
   { id: 3, user: 'Mike Johnson', action: 'added new data source', time: '1 hour ago', type: 'data' },
-  { id: 4, user: 'Emma Wilson', action: 'generated monthly report', time: '2 hours ago', type: 'report' },
 ]
 
 export const chartData: ChartData[] = [
