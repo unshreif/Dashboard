@@ -55,9 +55,9 @@ export const notifications: Notification[] = [
 ]
 
 export const quickActions: QuickAction[] = [
-  { name: 'New Report', icon: DocumentIcon, color: 'bg-primary-500' },
-  { name: 'Add User', icon: UserPlusIcon, color: 'bg-success-500' },
-  { name: 'Settings', icon: Cog6ToothIcon, color: 'bg-warning-500' },
+  { id: 1, name: 'New Report', icon: DocumentIcon, color: 'bg-primary-500' },
+  { id: 2, name: 'Add User', icon: UserPlusIcon, color: 'bg-success-500' },
+  { id: 3, name: 'Settings', icon: Cog6ToothIcon, color: 'bg-warning-500' },
 ]
 
 export const recentActivity: Activity[] = [

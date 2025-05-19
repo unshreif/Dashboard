@@ -16,6 +16,7 @@ export interface Notification {
 }
 
 export interface QuickAction {
+  id: number;
   name: string;
   icon: React.ComponentType<React.SVGProps<SVGSVGElement>>;
   color: string;
