@@ -25,7 +25,7 @@ A beautiful, modern dashboard built with Next.js, React, GSAP, and Tailwind CSS.
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/unshreif/Dashboard
 cd dashboard
 ```
 
